@@ -11,3 +11,5 @@ description: This quick start shows how to submit llm call to darkraven.
 3. Create an API key in settings
 
 ### Trace your LLM call and submit to Darkraven
+
+Trace your LLM call through [Langsmith](integrations/langsmith.md) or [Traceloop](integrations/traceloop.md).
