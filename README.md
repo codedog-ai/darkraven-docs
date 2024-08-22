@@ -32,4 +32,6 @@ Darkraven is an observability platform for large language model (LLM) applicatio
 
 ## Talk to us
 
-Report bugs or request features via GitHub [issues](https://github.com/codedog-ai/darkraven-community/issues) / [discussions](https://github.com/codedog-ai/darkraven-community/discussions).
+Report bugs or request features via GitHub [issues](https://github.com/codedog-ai/darkraven-community/issues) / [discussions](https://github.com/codedog-ai/darkraven-community/discussions).&#x20;
+
+More ways to connect: [support.md](other/support.md "mention")
