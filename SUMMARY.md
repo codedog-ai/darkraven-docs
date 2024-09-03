@@ -13,4 +13,4 @@
 ## Other
 
 * [Support](other/support.md)
-* [Data Security & Privacy](other/data-security-and-privacy.md)
+* [Privacy Notice](other/privacy-notice.md)
