@@ -1,5 +1,9 @@
 # Traceloop
 
+{% hint style="danger" %}
+<mark style="color:red;">**Traceloop Integration is temporarily unavailable.**</mark>
+{% endhint %}
+
 {% hint style="info" %}
 If you are using python, javascript or other Traceloop compatible language, you can submit LLM traces  to Darkraven with Traceloop SDK.
 

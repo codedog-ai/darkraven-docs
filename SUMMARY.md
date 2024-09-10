@@ -9,6 +9,8 @@
 * [Integrations](integrations/README.md)
   * [Langsmith](integrations/langsmith.md)
   * [Traceloop](integrations/traceloop.md)
+  * [Langfuse](integrations/langfuse.md)
+  * [Dify.ai](integrations/dify.ai.md)
 
 ## Other
 

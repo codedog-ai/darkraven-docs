@@ -1,5 +1,9 @@
 # Langsmith
 
+{% hint style="danger" %}
+<mark style="color:red;">**Langsmith Integration is temporarily unavailable.**</mark>
+{% endhint %}
+
 {% hint style="info" %}
 <mark style="color:blue;">If you are using Langchain or other Langchain based framework to develop. You can use Langsmith SDK to submit LLM traces to Darkraven.</mark>
 {% endhint %}
