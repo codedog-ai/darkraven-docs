@@ -42,8 +42,8 @@ import { Langfuse } from "https://esm.sh/langfuse"// Some code
 1. Create an API key in Darkraven in settings
 2. Add environment variables
 
-* LANGFUSE\_SECRET\_KEY: Your created api key
-* LANGFUSE\_PUBLIC\_KEY: Your created api key
+* LANGFUSE\_SECRET\_KEY: Your API key
+* LANGFUSE\_PUBLIC\_KEY: Your API key
 * LANGFUSE\_HOST: Use `https://api.darkraven.ai/api/dify`
 
 ## Usage Example
